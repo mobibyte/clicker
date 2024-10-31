@@ -1,2 +1,2 @@
-# clicker
-NPM package for clicker games
+# mobipackage
+NPM package for testing purposes

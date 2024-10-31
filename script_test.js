@@ -10,3 +10,5 @@ function log_test() {
 
     console.log("New sum is : " +sum)
 }
+
+module.exports = log_test

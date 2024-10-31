@@ -1,0 +1,23 @@
+{
+  "name": "clicker",
+  "version": "1.0.0",
+  "description": "Primarily for Preston's Banana clicker",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobibyte/clicker.git"
+  },
+  "keywords": [
+    "clicker",
+    "banana"
+  ],
+  "author": "Preston N.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mobibyte/clicker/issues"
+  },
+  "homepage": "https://github.com/mobibyte/clicker#readme"
+}
